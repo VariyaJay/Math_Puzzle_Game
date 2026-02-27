@@ -30,28 +30,28 @@ The app features multiple levels, smooth animations, and a clean UI suitable for
 ### 🏠 Home Screen
 Displays the game title with options to **Play**, **Select Level**, or **Buy Pro**.
 
-![Home Screen]<img src="ScreenShort/HomeScreen.png" width="200"/>
+<img src="ScreenShort/HomeScreen.png" width="200"/>
 
 ---
 
 ### 🧮 Puzzle Screen
 Solve logical math problems using the on-screen numeric keypad.
 
-![Puzzle Screen]<img src="ScreenShort/PuzzleScreen.png" width="200"/>
+<img src="ScreenShort/PuzzleScreen.png" width="200"/>
 
 ---
 
 ### 🎉 Level Complete Screen
 Shown after completing a level, with options to continue or return to the main menu.
 
-![Level Complete]<img src="ScreenShort/LevelCompleteScreen.png" width="200"/>
+<img src="ScreenShort/LevelCompleteScreen.png" width="200"/>
 
 ---
 
 ### 🗂️ Select Puzzle Screen
 Choose unlocked levels and view locked ones to track progress.
 
-![Select Puzzle]<img src="ScreenShort/SelectPuzzleScreen.png" width="200"/>
+<img src="ScreenShort/SelectPuzzleScreen.png" width="200"/>
 
 ---
 
