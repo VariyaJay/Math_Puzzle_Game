@@ -1,4 +1,4 @@
-# sir_puzzle
+# Math_Puzzle_Game
 
 A new Flutter project.
     
