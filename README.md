@@ -20,6 +20,7 @@ The app features multiple levels, smooth animations, and a clean UI suitable for
 ## 📸 Screenshots
 
 
+---
 
 ### 🏠 Home Screen
 Displays the game title with options to **Play**, **Select Level**, or **Buy Pro**.
