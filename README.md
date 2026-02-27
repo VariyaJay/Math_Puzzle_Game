@@ -20,10 +20,10 @@ The app features multiple levels, smooth animations, and a clean UI suitable for
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="ScreenShort/HomeScreen.png" width="250"/>
-  <img src="ScreenShort/PuzzleScreen.png" width="250"/>
-  <img src="ScreenShort/LevelCompleteScreen.png" width="250"/>
-  <img src="ScreenShort/SelectPuzzleScreen.png" width="250"/>
+  <img src="ScreenShort/HomeScreen.png" width="200"/>
+  <img src="ScreenShort/PuzzleScreen.png" width="200"/>
+  <img src="ScreenShort/LevelCompleteScreen.png" width="200"/>
+  <img src="ScreenShort/SelectPuzzleScreen.png" width="200"/>
 </p>
 ---
 
